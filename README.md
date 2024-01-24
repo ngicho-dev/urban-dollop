@@ -30,8 +30,8 @@ EduHub is an educational web application designed to provide a dynamic and inter
 
 ### Prerequisites
 
-- [Python](https://www.python.org/) (version X.X.X)
-- [Django](https://www.djangoproject.com/) (version X.X.X)
+- [Python](https://www.python.org/) (version 3.12.1)
+- [Django](https://www.djangoproject.com/) (version 5.0.0)
 - [Database (e.g., PostgreSQL, SQLite)]
 
 ### Installation
